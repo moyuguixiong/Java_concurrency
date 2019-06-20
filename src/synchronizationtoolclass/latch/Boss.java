@@ -1,4 +1,4 @@
-package synchronizationtoolclass.barrier;
+package synchronizationtoolclass.latch;
 
 public class Boss {
 

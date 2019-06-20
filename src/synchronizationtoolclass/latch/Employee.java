@@ -1,4 +1,4 @@
-package synchronizationtoolclass.barrier;
+package synchronizationtoolclass.latch;
 
 import java.util.List;
 
